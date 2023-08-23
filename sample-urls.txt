@@ -1,0 +1,5 @@
+google.com
+nu.nl
+python.org
+pypi.org
+somethingthatdoesNOTexist.test
